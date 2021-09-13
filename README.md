@@ -1,2 +1,2 @@
 # Hex2String
-python file to convert hexadecimal strings to acsii 
+> python file to convert hexadecimal strings to acsii 
